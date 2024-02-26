@@ -9,8 +9,7 @@ using namespace ns3;
 
 NS_LOG_COMPONENT_DEFINE ("3rd Lab Program");
 
-int 
-main (int argc, char *argv[])
+int main (int argc, char *argv[])
 {
   CommandLine cmd;
   cmd.Parse (argc, argv);
